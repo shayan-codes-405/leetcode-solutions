@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/shayan0786/leetcode-solutions/tree/master/0051-n-queens) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/0001-two-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shayan-codes-405/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
